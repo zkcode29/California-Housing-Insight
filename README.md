@@ -4,25 +4,25 @@ An advanced AI-powered Streamlit dashboard for real estate valuation and market 
 
 # Features
 
-# Multi-Model Analysis:
+# 👉 Multi-Model Analysis:
 Choose between Random Forest, Ridge, and Lasso regression models to see different AI perspectives on property valuation.
-# Interactive Real-Time Predictions: 
+# 👉 Interactive Real-Time Predictions: 
 Utilize a comprehensive set of sidebar controls to adjust property features and instantly receive an updated price prediction.
-# In-Depth Analytics Suite:
-# Model Comparison:
+# 👉 In-Depth Analytics Suite:
+# ✨ Model Comparison:
 Visualize and compare the price predictions from each of the available AI models.
-# Feature Importance: 
+# ✨ Feature Importance: 
 Understand the key drivers behind a property's valuation with dynamic bar charts showing the most influential features.
-# Market Insights: 
+# ✨ Market Insights: 
 Explore the distribution of housing prices and the correlation of various features with the median house value.
-# Interactive Geographic Map:
+# ✨ Interactive Geographic Map:
 View a scatter plot of housing data across California on an interactive map.
 Your specified property is highlighted with a distinct marker for easy location and comparison.
-# Comprehensive Data Exploration:
+# ✨ Comprehensive Data Exploration:
 Browse the underlying California Housing dataset within the application.
 Apply filters for price range and price category to narrow down the data.
 Download the filtered data as a CSV file for your own offline analysis.
-# Modern & Responsive UI: 
+# ✨Modern & Responsive UI: 
 A sleek and professional design with custom CSS for an enhanced user experience.
 
 
@@ -33,7 +33,7 @@ Prerequisites
 
 # Installation
 # 1. Clone the repository:
-git clone https://github.com/your-username/housing-analytics-pro.git
+git clone https://github.com/zkcode29/California-Housing-Insight/tree/main
 cd housing-analytics-pro
 
 # 2. Create and activate a virtual environment (recommended):
@@ -51,6 +51,9 @@ streamlit run housing_predictor.py
 
 # 5. Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to fork the repository and submit a pull request. You can also open an issue with the "enhancement" tag.
+
+# App URL
+https://california-housing-insight-h42w3oyzxgcw8hhbnehq3x.streamlit.app/
 
 # Created by
 Izaz khan | Artificial Intelligence
