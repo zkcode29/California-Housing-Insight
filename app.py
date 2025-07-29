@@ -1,7 +1,7 @@
 # ==============================================================================
 #                     AI HOUSING DASHBOARD PRO - 
 # ==============================================================================
-# A completely housing prediction dashboard with modern UI,
+# A complete housing prediction dashboard with modern UI,
 # comprehensive data display, and advanced analytics capabilities.
 #
 # INSTALLATION:
