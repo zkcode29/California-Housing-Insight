@@ -1,7 +1,7 @@
 # ==============================================================================
-#                    ENHANCED AI HOUSING DASHBOARD PRO - CORRECTED
+#                     AI HOUSING DASHBOARD PRO - 
 # ==============================================================================
-# A completely redesigned housing prediction dashboard with modern UI,
+# A completely housing prediction dashboard with modern UI,
 # comprehensive data display, and advanced analytics capabilities.
 #
 # INSTALLATION:
@@ -36,7 +36,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# --- Enhanced Modern CSS Styling ---
+# --- Modern CSS Styling ---
 st.markdown("""
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
